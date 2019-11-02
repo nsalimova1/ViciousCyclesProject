@@ -35,3 +35,8 @@ section {
 footer {
     background-color: orange;
 }
+h1, h2, h3 {
+    font-size: 4em;
+    text-align: center;
+    color: #010B5B;
+}
