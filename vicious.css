@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    background-color:#E7FBFB;
+    font-family: 'ZCOOL XiaoWei', serif;
+}
+.container {
+    background-color: blueviolet;
+}
+header {
+    background-color: gold;
+}
+nav {
+    background-color: rgb(59, 194, 231);
+}
+aside {
+    background-color: rgb(0, 255, 55);
+}
+section {
+    background-color: antiquewhite;
+}
+.imgcontainer {
+    background-color: rgb(5, 48, 34);
+}
+main {
+    background-color: rgb(109, 67, 67);
+}
+section {
+    background-color: hotpink;
+}
+footer {
+    background-color: orange;
+}
