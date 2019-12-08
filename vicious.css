@@ -4,7 +4,7 @@
 }
 
 
-body {
+/* body {
     background-color:#E7FBFB;
     font-family: 'ZCOOL XiaoWei', serif;
 }
@@ -34,9 +34,12 @@ section {
 }
 footer {
     background-color: orange;
-}
-h1, h2, h3 {
-    font-size: 4em;
-    text-align: center;
-    color: #010B5B;
-}
+}*/
+body {
+background-color: #E7FBFB;
+ }
+ h1 {
+ font-size: 4em;
+ text-align: center;
+ color: #010b5b;
+ }
